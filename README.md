@@ -2,7 +2,8 @@
 
     This project was created from local system
 
-# Whats new
+# What's new
     HTML
     CSS
     JavaScript
+
